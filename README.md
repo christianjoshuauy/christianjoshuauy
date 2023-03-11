@@ -121,11 +121,6 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b><i>"The Art Of Nothing"</i></b>
-</div>
-
 <div align="left">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Problem Solving Stats </b>
@@ -133,11 +128,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tr1b1iwnl?theme=nord&ext=heatmap)
 </div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
